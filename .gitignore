@@ -1,0 +1,19 @@
+# Binaries for the current project
+localsocks
+
+# Generated binaries and packages
+bin/
+pkg/
+
+# Test and profiling files
+*.test
+*.prof
+
+# Dependency directories (if using vendoring)
+vendor/
+
+# OS-specific and temporary files
+*.exe
+*.dll
+*.so
+*.dylib
